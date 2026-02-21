@@ -11,7 +11,7 @@ Full-Stack Systems Engineering & Applied AI/ML
 
 <p>
   Connect:
-  <a href="https://linkedin.com/in/chanbinp">LinkedIn</a> •
+  <a href="https://linkedin.com/in/chanbinp">LinkedIn</a> -
   <a href="https://cpark.vercel.app">Portfolio</a>
 </p>
 
