@@ -11,8 +11,6 @@ Full-Stack Systems Engineering & Applied ML/NLP
 
 [LinkedIn](https://linkedin.com/in/chanbinp) • [Portfolio](https://cpark.vercel.app)
 
----
-
 ## ⚙️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
