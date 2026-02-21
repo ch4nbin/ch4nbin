@@ -7,7 +7,7 @@ Full-Stack Systems Engineering & Applied ML/NLP
 
 ---
 
-## 🚀 Focus
+## 🚀 Interests
 
 - Applied Machine Learning & NLP  
 - Distributed Systems & Backend Engineering  
