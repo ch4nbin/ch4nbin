@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chanbin Park
+# 👋 Hi! I'm Chanbin Park
 
 Computer Science @ Princeton University  
 Minors in Statistics & Machine Learning • Visual Arts  
