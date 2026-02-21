@@ -3,7 +3,7 @@
 # 👋 Hi! I'm Chanbin Park
 
 Computer Science @ Princeton University  
-Minors in Statistics & Machine Learning • Visual Arts  
+Minors in Statistics & Machine Learning + Visual Arts  
 
 Full-Stack Systems Engineering & Applied ML/NLP  
 
