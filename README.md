@@ -7,7 +7,7 @@ Minors in Statistics & Machine Learning + Visual Arts
 
 Full-Stack Systems Engineering & Applied ML/NLP  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1100&duration=1900&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Until+death,+all+defeat+is+psychological.;An+overnight+success+takes+thousands+of+nights.;Find+a+way+or+make+one.;Fall+seven.+Rise+eight." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&duration=1800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Until+death,+all+defeat+is+psychological.;An+overnight+success+takes+thousands+of+nights.;Find+a+way+or+make+one.;Fall+seven.+Rise+eight." />
 
 [LinkedIn](https://linkedin.com/in/chanbinp) • [Portfolio](https://cpark.vercel.app)
 
