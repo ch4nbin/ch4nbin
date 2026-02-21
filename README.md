@@ -7,11 +7,7 @@ Minors in Statistics & Machine Learning • Visual Arts
 
 Full-Stack Systems Engineering & Applied ML/NLP  
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Until+death,+all+defeat+is+psychological.;An+overnight+success+takes+thousands+of+nights." />
-
-<br/><br/>
 
 ---
 
@@ -57,14 +53,6 @@ Full-Stack Systems Engineering & Applied ML/NLP
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🧩 Concepts
-
-Full-Stack Development • Distributed Systems • Machine Learning • Backend Systems  
-API Design (REST) • CI/CD • Microservices • Infrastructure Engineering  
-DevOps • Agile/Scrum • System Design • Performance Optimization  
 
 ---
 
