@@ -9,6 +9,8 @@ Full-Stack Systems Engineering & Applied ML/NLP
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Until+death,+all+defeat+is+psychological.;An+overnight+success+takes+thousands+of+nights." />
 
+[LinkedIn](https://linkedin.com/in/chanbinp) • [Portfolio](https://cpark.vercel.app)
+
 ---
 
 ## ⚙️ Technologies
@@ -43,11 +45,5 @@ Full-Stack Systems Engineering & Applied ML/NLP
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/chanbinp) • [Portfolio](https://cpark.vercel.app)
 
 </div>
