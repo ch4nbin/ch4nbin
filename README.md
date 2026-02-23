@@ -11,8 +11,9 @@ Full-Stack Systems Engineering & Applied AI/ML
 
 <p>
   Connect:
-  <a href="https://linkedin.com/in/chanbinp">LinkedIn</a> -
-  <a href="https://cpark.vercel.app">Portfolio</a>
+  <a href="mailto:cp5721@princeton.edu">Email</a> -
+  <a href="https://cpark.vercel.app">Portfolio</a> -
+  <a href="https://linkedin.com/in/chanbinp">LinkedIn</a>
 </p>
 
 ## ⚙️ Technologies
