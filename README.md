@@ -5,8 +5,7 @@
 Computer Science @ Princeton University  
 Minors in Statistics & Machine Learning + Visual Arts  
 
-Full-Stack Systems Engineering & Applied AI/ML
-Interested in Expanding Tech Access!
+Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Access!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&duration=1900&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Until+death,+all+defeat+is+psychological.;An+overnight+success+takes+thousands+of+nights.;Find+a+way+or+make+one." />
 
