@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi! I'm Chanbin
+# 👤 Hi! I'm Chanbin
 
 Computer Science @ Princeton University  
 Minors in Statistics & Machine Learning + Visual Arts  
