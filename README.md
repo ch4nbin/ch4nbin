@@ -9,9 +9,9 @@ Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Ac
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&duration=1900&backSpeed=65&color=FFFFFF&width=1100&lines=Until+death,+all+defeat+is+psychological.;An+overnight+success+takes+thousands+of+nights.;Find+a+way+or+make+one." />
 
-[![Email](https://img.shields.io/badge/Email-3f5378?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f5378?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3f5378?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
+[![Email](https://img.shields.io/badge/Email-3f5378?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
 ## Technologies
 
