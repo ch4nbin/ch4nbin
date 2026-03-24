@@ -1,7 +1,6 @@
 <div align="left">
 
-<h2> Hi, I'm Chanbin! </h2>
-<hr>
+### Hi, I'm Chanbin!
 
 Computer Science @ Princeton University  
 Minors in Statistics & Machine Learning + Visual Arts  
