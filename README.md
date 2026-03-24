@@ -11,13 +11,13 @@ Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Ac
 
 <p>
   <a href="mailto:cp5721@princeton.edu">
-    <img src="https://img.shields.io/badge/Email-3f5378?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-3f5378?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://cpark.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-3f5378?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-3f5378?style=flat&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/chanbinp">
-    <img src="https://img.shields.io/badge/LinkedIn-3f5378?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3f5378?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
