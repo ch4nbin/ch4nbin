@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👤 Hi, I'm Chanbin!
+## Hi, I'm Chanbin!
 
 Computer Science @ Princeton University  
 Minors in Statistics & Machine Learning + Visual Arts  
@@ -16,7 +16,7 @@ Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Ac
   <a href="https://linkedin.com/in/chanbinp">LinkedIn</a>
 </p>
 
-## ⚙️ Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
