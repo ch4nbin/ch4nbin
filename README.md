@@ -2,7 +2,7 @@
 
 ## Hi, I'm Chanbin!
 
-Computer Science @ <span style="color:#3f5378;"><b>Princeton University</b></span><br>
+Computer Science @ ![Princeton University](https://img.shields.io/badge/Princeton_University-3f5378?style=for-the-badge&logo=none&logoColor=white)
 Minors in Statistics & Machine Learning + Visual Arts  
 
 Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Access!
