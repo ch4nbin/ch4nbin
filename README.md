@@ -13,7 +13,7 @@ Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Ac
 [![Email](https://img.shields.io/badge/Email-3f5378?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
 ## Technologies
-### Languages
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3f5378?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3f5378?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3f5378?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Ac
 ![C++](https://img.shields.io/badge/C++-3f5378?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-3f5378?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-3f5378?style=for-the-badge&logo=css3&logoColor=white)
-### Frameworks & Libraries
+#### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-3f5378?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3f5378?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-3f5378?style=for-the-badge&logo=express&logoColor=white)
@@ -32,7 +32,7 @@ Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Ac
 ![PyTorch](https://img.shields.io/badge/PyTorch-3f5378?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-3f5378?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3f5378?style=for-the-badge&logo=scikitlearn&logoColor=white)
-### Tools & Infrastructure
+#### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-3f5378?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-3f5378?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-3f5378?style=for-the-badge&logo=docker&logoColor=white)
