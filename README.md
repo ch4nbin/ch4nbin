@@ -13,7 +13,6 @@ Full-Stack Systems Engineering & Applied AI/ML - Interested in Expanding Tech Ac
 [![Email](https://img.shields.io/badge/Email-3f5378?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
 ## Technologies
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3f5378?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3f5378?style=for-the-badge&logo=java&logoColor=white)
