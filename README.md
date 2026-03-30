@@ -2,7 +2,7 @@
 
 ## Hi, I'm Chanbin!
 
-Computer Science @ <strong>Princeton University</strong>
+Computer Science @ <strong>Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
 
 Full-Stack Systems Engineering & Applied AI/ML
