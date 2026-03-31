@@ -5,7 +5,7 @@
 Computer Science @ <strong>Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
 
-Full-Stack Systems Engineering & Applied AI/ML
+Distributed Systems, Applied AI/ML, High-performance Infra 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&duration=1900&backSpeed=65&color=FFFFFF&width=1100&lines=Until+death,+all+defeat+is+psychological.;An+overnight+success+takes+thousands+of+nights.;The+obstacle+is+the+path." />
 
