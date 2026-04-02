@@ -9,9 +9,6 @@ Minors in Statistics & Machine Learning + Visual Arts
 <strong>Experience</strong><br>
 Incoming SWE Intern @ <strong>T-Mobile (Summer 2026)</strong>
 
-<strong>Interests</strong><br>
-Distributed Systems, Applied AI/ML, High-Performance Infra
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f5378?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-3f5378?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp) 
 [![Email](https://img.shields.io/badge/Email-3f5378?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
