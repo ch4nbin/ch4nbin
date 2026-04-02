@@ -4,12 +4,16 @@
 
 <strong>Education</strong><br>
 Computer Science @ 
-<img src="https://img.shields.io/badge/Princeton-FF8F00?style=for-the-badge&logoColor=white" style="vertical-align: middle;" /><br>
+<img src="https://cdn.simpleicons.org/princeton/FF8F00" height="16" style="vertical-align: -2px;" />
+<strong>Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
+
+<br>
 
 <strong>Experience</strong><br>
 Incoming SWE Intern @ 
-<img src="https://img.shields.io/badge/T--Mobile-E20074?style=for-the-badge&logo=t-mobile&logoColor=white" style="vertical-align: middle;" />
+<img src="https://cdn.simpleicons.org/tmobile/E20074" height="16" style="vertical-align: -2px;" />
+<strong>T-Mobile</strong>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
