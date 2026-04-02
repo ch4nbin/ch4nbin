@@ -4,7 +4,8 @@
 
 <strong>Education</strong><br>
 Computer Science @ 
-<img src="https://cdn.simpleicons.org/princeton/FF8F00" height="16" style="vertical-align: -2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="0" style="display:none;">
+<img src="https://img.icons8.com/color/48/princeton.png" height="18" style="vertical-align: -2px;" />
 <strong>Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
 
@@ -12,7 +13,7 @@ Minors in Statistics & Machine Learning + Visual Arts
 
 <strong>Experience</strong><br>
 Incoming SWE Intern @ 
-<img src="https://cdn.simpleicons.org/tmobile/E20074" height="16" style="vertical-align: -2px;" />
+<img src="https://img.icons8.com/color/48/t-mobile.png" height="18" style="vertical-align: -2px;" />
 <strong>T-Mobile</strong>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
