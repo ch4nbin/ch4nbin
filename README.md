@@ -6,9 +6,6 @@
 Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
 
-<strong>Experience</strong><br>
-Incoming SWE Intern @ <strong style="color:#E20074;">T-Mobile</strong> (Summer 2026)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ED1C24?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
 [![Email](https://img.shields.io/badge/Email-ED1C24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
