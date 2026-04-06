@@ -6,8 +6,8 @@
 Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
 
-![Portfolio](https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=vercel&logoColor=white):
-![LinkedIn](https://img.shields.io/badge/LinkedIn-B3131B?style=for-the-badge&logo=linkedin&logoColor=white):
+![Portfolio](https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=vercel&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-B3131B?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-E5E5E5?style=for-the-badge&logo=gmail&logoColor=black)
 
 ## Technologies
