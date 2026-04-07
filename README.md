@@ -6,7 +6,7 @@
 Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
 
-<strong>Education</strong><br>
+<strong>Interests</strong><br>
 Interested Distributed Systems, AI/ML, and High-Performance Infra!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
