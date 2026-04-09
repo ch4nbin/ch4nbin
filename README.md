@@ -10,9 +10,21 @@
  - Product, Distributed Systems, AI/ML, and High-Performance Infra
 
 <strong>ᯤ Connect</strong><br>
- - [![Portfolio](https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ED1C24?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
-[![Email](https://img.shields.io/badge/Email-ED1C24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
+<div style="display:flex; align-items:center; gap:12px;">
+  <span style="font-size:16px;">•</span>
+
+  <a href="https://cpark.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white" height="26"/>
+  </a>
+
+  <a href="https://linkedin.com/in/chanbinp">
+    <img src="https://img.shields.io/badge/LinkedIn-D62828?style=for-the-badge&logo=linkedin&logoColor=white" height="26"/>
+  </a>
+
+  <a href="mailto:cp5721@princeton.edu">
+    <img src="https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white" height="26"/>
+  </a>
+</div>
 
 ## Technologies
 
