@@ -3,14 +3,14 @@
 ## Hi, I'm Chanbin!
 
 <strong>✐ Education</strong><br>
-Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
-Minors in Statistics & Machine Learning + Visual Arts
+ - Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
+ - Minors in Statistics & Machine Learning + Visual Arts
 
 <strong>★ Interests</strong><br>
-Product, Distributed Systems, AI/ML, and High-Performance Infra
+ - Product, Distributed Systems, AI/ML, and High-Performance Infra
 
 <strong>Connect</strong><br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
+ - [![Portfolio](https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ED1C24?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
 [![Email](https://img.shields.io/badge/Email-ED1C24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
