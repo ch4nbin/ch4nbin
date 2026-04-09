@@ -11,8 +11,8 @@
 
 <strong>ᯤ Connect</strong><br> 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-ED1C24?style=flat-square&logo=vercel&logoColor=white)](https://cpark.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D62828?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
-[![Email](https://img.shields.io/badge/Email-B22222?style=flat-square&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ED1C24?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
+[![Email](https://img.shields.io/badge/Email-ED1C24?style=flat-square&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
 ## Technologies
 
