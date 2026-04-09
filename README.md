@@ -2,7 +2,7 @@
 
 ## Hi, I'm Chanbin!
 
-<strong>Education</strong><br>
+<strong>✐ Education</strong><br>
 Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
 Minors in Statistics & Machine Learning + Visual Arts
 
