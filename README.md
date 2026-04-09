@@ -3,16 +3,26 @@
 ## Hi, I'm Chanbin!
 
 <strong>✐ Education</strong><br>
- - Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
- - Minors in Statistics & Machine Learning + Visual Arts
+&nbsp;&nbsp;Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
+&nbsp;&nbsp;Minors in Statistics & Machine Learning + Visual Arts
+
+<br>
 
 <strong>★ Interests</strong><br>
- - Product, Distributed Systems, AI/ML, and High-Performance Infra
+&nbsp;&nbsp;Product, Distributed Systems, AI/ML, High-Performance Infra
+
+<br>
 
 <strong>ᯤ Connect</strong><br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white)](https://cpark.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ED1C24?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
-[![Email](https://img.shields.io/badge/Email-ED1C24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
+<a href="https://cpark.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/chanbinp">
+  <img src="https://img.shields.io/badge/LinkedIn-D62828?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:cp5721@princeton.edu">
+  <img src="https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ## Technologies
 
