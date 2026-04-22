@@ -8,6 +8,7 @@
 
 <strong>Experience</strong><br>
  - Incoming SWE Intern @ <strong style="color:#E20074;">T-Mobile</strong> (Summer 2026)
+ - Research @ Princeton, Prev @ CMU, Cambridge, UCSD
 
 <strong>★ Interests</strong><br>
  - Product, Distributed Systems, AI/ML, and High-Performance Infra
