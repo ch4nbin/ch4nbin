@@ -6,6 +6,9 @@
  - Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
  - Minors in Statistics & Machine Learning + Visual Arts
 
+<strong>Experience</strong><br>
+ - Incoming SWE Intern @ <strong style="color:#E20074;">T-Mobile</strong> (Summer 2026)
+
 <strong>★ Interests</strong><br>
  - Product, Distributed Systems, AI/ML, and High-Performance Infra
 
