@@ -30,6 +30,7 @@
 ![C++](https://img.shields.io/badge/C++-ED1C24?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ED1C24?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ED1C24?style=flat-square&logo=css3&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-ED1C24?style=flat-square&logo=react&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-ED1C24?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-ED1C24?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -38,6 +39,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ED1C24?style=flat-square&logo=tensorflow&logoColor=white)
 ![WebGPU](https://img.shields.io/badge/WebGPU-ED1C24?style=flat-square&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ED1C24?style=flat-square&logo=scikitlearn&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-ED1C24?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ED1C24?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ED1C24?style=flat-square&logo=docker&logoColor=white)
