@@ -1,6 +1,6 @@
 <div align="left">
 
-## Hi, I'm Chanbin!
+## Hi, I'm Chanbin Park!
 
 <strong>✐ Education</strong><br>
  - Computer Science @ <strong style="color:#FF8F00;">Princeton University</strong><br>
