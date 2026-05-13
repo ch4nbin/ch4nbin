@@ -3,7 +3,7 @@
 ## Hi, I'm Chanbin Park!
 
 <strong>✐ Education</strong><br>
- - Computer Science @ <strong style="color:#52689c;">Princeton University</strong><br>
+ - Computer Science @ <strong style="color:#52689c;">Princeton University '28</strong><br>
  - Minors in Statistics & Machine Learning + Visual Arts
 
 <strong>모 Experience</strong><br>
