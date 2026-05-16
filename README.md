@@ -11,7 +11,7 @@
  - Research @ <strong style="color:#52689c;">Princeton</strong>; Prev @ <strong style="color:#52689c;">CMU</strong>, <strong style="color:#52689c;">Cambridge</strong>, <strong style="color:#52689c;">UCSD</strong>
 
 <strong>★ Interests</strong><br>
- - Product, Distributed Systems, AI/ML, and High-Performance Infra
+ - Distributed Systems, AI/ML, and High-Performance Infra
 
 <strong>ᯤ Connect</strong><br> 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-52689c?style=flat-square&logo=vercel&logoColor=white)](https://cpark.vercel.app)
