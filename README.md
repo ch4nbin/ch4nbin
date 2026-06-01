@@ -7,7 +7,7 @@
  - Minors in Statistics & Machine Learning + Visual Arts
 
 <strong>모 Experience</strong><br>
- - Incoming SWE Intern @ <strong style="color:#52689c;">T-Mobile</strong> (Summer 2026: AI Agents)
+ - SWE Intern @ <strong style="color:#52689c;">T-Mobile</strong> (Summer 2026: AI Agents)
  - Research @ <strong style="color:#52689c;">Princeton</strong>; Prev @ <strong style="color:#52689c;">CMU</strong>, <strong style="color:#52689c;">Cambridge</strong>, <strong style="color:#52689c;">UCSD</strong>
 
 <strong>★ Interests</strong><br>
