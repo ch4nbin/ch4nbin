@@ -18,6 +18,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
+<strong>✍ Note</strong><br> 
+- My decreased contribution activity is partly due to internship work living in a private GitLab account, which won't be reflected here.
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
