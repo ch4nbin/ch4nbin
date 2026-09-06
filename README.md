@@ -14,7 +14,7 @@
  - Distributed Systems, AI/ML, and High-Performance Infra
 
 <strong>ᯤ Connect</strong><br> 
-- [![Portfolio](https://img.shields.io/badge/Portfolio-2E5F9E?style=flat-square&logo=vercel&logoColor=white)](https://cpark.vercel.app)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-2E5F9E?style=flat-square&logo=vercel&logoColor=white)](https://www.chanbin.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E5F9E?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanbinp)
 [![Email](https://img.shields.io/badge/Email-2E5F9E?style=flat-square&logo=gmail&logoColor=white)](mailto:cp5721@princeton.edu)
 
