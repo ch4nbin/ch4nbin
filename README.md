@@ -4,7 +4,7 @@ i'm a computer science student at princeton university
 
 before this i've built/done
 
-* swe intern @ T-Mobile (Summer 2026: AI Agents)
+* swe intern @ t-mobile (summer 2026: ai agents)
 * research on kg-grounded reasoning curricula and novel slm-based ai agent architectures w/ niraj jha @ princeton
 * various swe/research work @ princeton, cmu, cambridge, and ucsd
 
